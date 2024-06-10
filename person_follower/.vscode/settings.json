@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ubuntu/follow_ws/build/person_follower",
+        "/run/user/1002/gvfs/sftp",
+        "host=192.168.26.190,user=ubuntu/home/ubuntu/follow_ws/install/person_follower/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ubuntu/follow_ws/build/person_follower",
+        "/run/user/1002/gvfs/sftp",
+        "host=192.168.26.190,user=ubuntu/home/ubuntu/follow_ws/install/person_follower/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

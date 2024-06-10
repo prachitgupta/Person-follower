@@ -1,2 +1,4 @@
 # Person-follower
-ROS2 scripts to make turtlebot4 follow people using skeletal detection using blazepose
+ROS2 package to make turtlebot4 follow people via skeletal detection using blazepose
+
+
