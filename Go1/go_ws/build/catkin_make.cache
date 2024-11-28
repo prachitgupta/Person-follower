@@ -1,0 +1,2 @@
+go1-math-motion/go1-math-motion:go1-math-motion/unitree_legged_msgs
+-DCATKIN_DEVEL_PREFIX=/home/prachit/Desktop/go_ws/devel -DCMAKE_INSTALL_PREFIX=/home/prachit/Desktop/go_ws/install -G Unix Makefiles

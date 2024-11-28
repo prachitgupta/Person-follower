@@ -1,0 +1,8 @@
+prefix=/home/prachit/Desktop/go_ws/install
+
+Name: go1-math-motion
+Description: Description of go1-math-motion
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
